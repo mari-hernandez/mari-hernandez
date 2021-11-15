@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi everyone👋, I'm María Antonia
+
+### Education 🎓
+- Currently in fourth year of Computer Science Engineering at University of Chile
+
+### Skills 🛠️
+- **Languages**:        Python, C, Java, SQL, R, HTML, CSS, JavaScript
+- **Libraries**: &nbsp;  NumPy, SciPy, Pandas, Sklearn, Requests
+- **RDBMS**:   &nbsp;   PostgresSQL, MySQL
+- **Tools**:   Visual Studio Code, IntelliJ IDEA, Git
+
+
+### Work experience 👔
+| Job Position          | Company        | Work Period                |
+| --------------------- | -------------- | -------------------------- |
+| Senior NLP Engineer   | Tinkoff AI Lab | July – October 2021    |
+| Assistant Teacher           |  Universidad de Chile | Fall Semester 2021   |
+| Volunteer Chemistry Teacher | PreuJCT  | 2019- Present   |
+
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-antonia-hern%C3%A1ndez-ram%C3%ADrez-544897217/)
 
 <!--
 **mari-hernandez/mari-hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
