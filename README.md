@@ -4,10 +4,10 @@
 - Currently in fourth year of Computer Science Engineering at Universidad de Chile
 
 ### Skills 🛠️
-- **Languages**:   &nbsp;     Python, C, Java, SQL, R, HTML, CSS, JavaScript
+- **Languages**:   &nbsp;Python, C, Java, SQL, R, HTML, CSS, JavaScript
 - **Libraries**: &nbsp;  NumPy, SciPy, Pandas, Sklearn, Requests
-- **RDBMS**:   &nbsp;   PostgresSQL, MySQL
-- **Tools**: &nbsp;    Visual Studio Code, IntelliJ IDEA, Git
+- **RDBMS**:   &nbsp;    PostgresSQL, MySQL
+- **Tools**: &nbsp;      Visual Studio Code, IntelliJ IDEA, Git
 
 
 ### Work experience 👔
