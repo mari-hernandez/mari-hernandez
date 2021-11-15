@@ -13,7 +13,7 @@
 ### Work experience 👔
 | Job Position          | Company        | Work Period                |
 | --------------------- | -------------- | -------------------------- |
-| Senior NLP Engineer   | Tinkoff AI Lab | July – October 2021    |
+| BI Internship   | GE2 | July – October 2021    |
 | Assistant Teacher           |  Universidad de Chile | Fall Semester 2021   |
 | Volunteer Chemistry Teacher | PreuJCT  | 2019- Present   |
 
