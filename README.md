@@ -13,6 +13,7 @@
 ### Work experience 👔
 | Job Position          | Company        | Work Period                |
 | --------------------- | -------------- | -------------------------- |
+| Software & Cloud Internship   | Zippedi | January – February 2022    |
 | BI Internship   | GE2 | July – October 2021    |
 | Assistant Teacher           |  Universidad de Chile | Fall Semester 2021   |
 | Volunteer Chemistry Teacher | PreuJCT  | 2019- Present   |
