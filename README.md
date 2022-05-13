@@ -1,7 +1,7 @@
 ### Hi everyone👋, I'm María Antonia
 
 ### Education 🎓
-- Currently in fourth year of Computer Science Engineering at Universidad de Chile
+- Currently in fifth year of Computer Science Engineering at Universidad de Chile
 
 ### Skills 🛠️
 - **Languages**:   &nbsp;Python, C, Java, SQL, R, HTML, CSS, JavaScript
