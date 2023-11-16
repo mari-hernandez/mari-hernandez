@@ -23,7 +23,7 @@
 - 🎓 Graduation Thesis: Developed an object tracking algorithm using Computer Vision for image analysis.
 
 ### More About Me
-- Check out my [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-antonia-hern%C3%A1ndez-ram%C3%ADrez-544897
+- Check out my [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-antonia-hern%C3%A1ndez-ram%C3%ADrez-544897217/)
 
 
 <!--
