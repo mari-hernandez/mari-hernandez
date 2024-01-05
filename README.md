@@ -2,7 +2,7 @@
 
 ### About Me 🚀
 - 🎓 Computer Science Engineering graduate from Universidad de Chile.
-- 👩‍💻 Cloud Engineer at Zippedi since August 2022
+- 👩‍💻 Software Engineer at SoyFocus since August 2022
 
 ### Skills 🛠️
 - **Languages**: &nbsp; Python, C, Java, SQL, R, HTML, CSS
@@ -13,7 +13,8 @@
 ### Work Experience 👔
 | Job Position                  | Company                | Work Period                 |
 | ----------------------------- | ---------------------- | --------------------------- |
-| Cloud Engineer                | Zippedi                | August 2022 - Present       |
+| Software Engineer                | SoyFocus                | December 2023 - Present    |
+| Cloud Engineer                | Zippedi                | August 2022 - November 2023    |
 | Software & Cloud Internship    | Zippedi                | January – February 2022     |
 | BI Internship                 | GE2                    | July – October 2021         |
 | Assistant Teacher             | Universidad de Chile    | Fall Semester 2021          |
