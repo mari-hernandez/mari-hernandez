@@ -2,7 +2,7 @@
 
 ### About Me 🚀
 - 🎓 Computer Science Engineering graduate from Universidad de Chile.
-- 👩‍💻 Software Engineer at SoyFocus since August 2022
+- 👩‍💻 Software Engineer at SoyFocus since December 2023
 
 ### Skills 🛠️
 - **Languages**: &nbsp; Python, C, Java, SQL, R, HTML, CSS
