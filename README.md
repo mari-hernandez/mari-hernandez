@@ -5,10 +5,10 @@
 - 👩‍💻 Software Engineer at SoyFocus since December 2023
 
 ### Skills 🛠️
-- **Languages**: &nbsp; Python, C, Java, SQL, R, HTML, CSS
-- **Libraries**: &nbsp; NumPy, SciPy, Pandas, Scikit-Learn, Requests
-- **DB**: &nbsp; PostgreSQL, MySQL, Bigtable
-- **Tools**: &nbsp; Visual Studio Code, IntelliJ IDEA, Git
+- **Languages**: &nbsp; Python, C#, Java, SQL, C, R
+- **Libraries**: &nbsp; Pandas, OpenCV, NumPy, SciPy, Scikit-Learn, Requests
+- **DB**: &nbsp; PostgreSQL, MySQL, SQL Server, Bigtable
+- **Tools**: &nbsp; Visual Studio Code, Visual Studio, IntelliJ IDEA, Git
 
 ### Work Experience 👔
 | Job Position                  | Company                | Work Period                 |
@@ -20,7 +20,7 @@
 | Assistant Teacher             | Universidad de Chile    | Fall Semester 2021          |
 | Volunteer Chemistry Teacher   | PreuJCT                | 2019- 2021               |
 
-### Project 🌐
+### Projects 🌐
 - 🎓 Graduation Thesis: Developed an object tracking algorithm using Computer Vision for image analysis.
 
 ### More About Me
