@@ -1,8 +1,8 @@
 ### Hi there! 👋, I'm María Antonia
 
 ### About Me 🚀
-- 🎓 Computer Science Engineering graduate from Universidad de Chile.
-- 👩‍💻 Software Engineer at SoyFocus since December 2023
+- 🎓 Computer Science Engineer from Universidad de Chile.
+- 👩‍💻 Software Engineer at Fintoc since March 2025
 
 ### Skills 🛠️
 - **Languages**: &nbsp; Python, C#, Java, SQL, C, R
@@ -13,7 +13,8 @@
 ### Work Experience 👔
 | Job Position                  | Company                | Work Period                 |
 | ----------------------------- | ---------------------- | --------------------------- |
-| Software Engineer                | SoyFocus                | December 2023 - Present    |
+| Software Engineer                | Fintoc                | March 2025 - Present    |
+| Software Engineer                | SoyFocus                | December 2023 - February 2025    |
 | Cloud Engineer                | Zippedi                | August 2022 - November 2023    |
 | Software & Cloud Internship    | Zippedi                | January – February 2022     |
 | BI Internship                 | GE2                    | July – October 2021         |
