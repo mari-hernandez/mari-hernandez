@@ -4,12 +4,6 @@
 - 🎓 Computer Science Engineer from Universidad de Chile.
 - 👩‍💻 Software Engineer at Fintoc since March 2025
 
-### Skills 🛠️
-- **Languages**: &nbsp; Python, C#, Java, SQL, C, R
-- **Libraries**: &nbsp; Pandas, OpenCV, NumPy, SciPy, Scikit-Learn, Requests
-- **DB**: &nbsp; PostgreSQL, MySQL, SQL Server, Bigtable
-- **Tools**: &nbsp; Visual Studio Code, Visual Studio, IntelliJ IDEA, Git
-
 ### Work Experience 👔
 | Job Position                  | Company                | Work Period                 |
 | ----------------------------- | ---------------------- | --------------------------- |
